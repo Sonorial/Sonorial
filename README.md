@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <div id="badges">
-    <a href="your-youtube-URL">
+    <a href="https://www.youtube.com/channel/UC4_oqYMwAJM2YmEVByBzoCQ">
       <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
     </a>
   </div>
